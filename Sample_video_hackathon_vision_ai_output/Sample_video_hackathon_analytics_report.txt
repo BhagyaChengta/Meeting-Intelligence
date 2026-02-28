@@ -1,0 +1,94 @@
+====================================================================
+  MEETING ANALYTICS REPORT
+  Team Vision AI
+====================================================================
+  File      : Sample_video_hackathon.mp4
+  Generated : 2026-02-28 19:08:02
+  Duration  : 05:43
+  Attendees : Poornima Kumaran, Babuji Abraham, Varun Kumar
+====================================================================
+
+--------------------------------------------------------------------
+  MEETING SUMMARY
+--------------------------------------------------------------------
+
+  Laptops are not reaching our new hires on time for their day one. Because they
+  can't access our secure environments, they sit idle, which translates to an
+  immediate loss of available hours. Just looking at the data from the last two
+  months, we've had 45 lateral hires join our Indian operations. Out of those, 18
+  did not receive their laptops until the second week. Currently, HR only triggers
+  the IT onboarding ticket after the candidates completes their final pre-joining
+  background check and upload their documents to the portal. Sometimes candidates
+  delay doing the doing until the very last minute. If we can integrate the HMS
+  directly with our IT ticketing system, the system could automatically generate
+  an asset request the moment the candidate clicks accept the offer letter.
+  Puneema, could you send me the impact report on loss billing? We will use that
+  data to build a quick business case. Third, I will set up a meeting for tomorrow
+  with HR head. just so we have a formal SLA. I will present the business case,
+  explain the proposed HRMS to IT automation and get their sign off.
+
+
+--------------------------------------------------------------------
+  ACTION ITEMS
+--------------------------------------------------------------------
+
+  Poornima Kumaran:
+    • Purnima, since revenue office flagged this, I will hand it over to you to
+      quantify the issue.
+    • It's like that. It removes the manual dependency on a chart to remember to
+      send an email and it gives IT the buffer they need for nationwide
+      shipping. Is that integration something your team can handle, Varun?
+    • Excellent. That's exactly the kind of alignment we needed today. Let me
+      summarize the action items before we wrap up.
+    • Second, Puneema, could you send me the impact report on loss billing? We
+      will use that data to build a quick business case.
+    • Third, I will set up a meeting for tomorrow with HR head. I will present
+      the business case, explain the proposed HRMS to IT automation and get
+      their sign off to bypass the document upload dependency.
+
+  Varun Kumar:
+    • Right now, the idea only received the asset request ticket from HR about
+      three to four days before the candidates joining it.
+    • Puneema, currently the process dictates that HR only triggers the IT
+      onboarding ticket after the candidates completes their final pre-joining
+      background check and upload their documents to the portal.
+
+  Babuji Abraham:
+    • If they have accepted the offer letter, we need to ship the machine. We
+      can always remote lock the device if they end up backing out at the last
+      minute.
+
+
+--------------------------------------------------------------------
+  SPEAKER-WISE SUMMARY
+--------------------------------------------------------------------
+
+  Poornima Kumaran:
+  Laptops are not reaching our new hires on time for their day one. Because they
+  can't access our secure environments, they sit idle, which translates to an
+  immediate loss of available hours. Poornima Kumaran said the following during
+  the meeting: It's like that. It removes the manual dependency on a chart to
+  remember to send an email. Babaji: Are we all aligned on these steps? Sounds
+  like a solid plan, Babaji. Get their sign off to bypass the document upload
+  dependency. Thanks. We solved a lot in five minutes. Have a great rest of your
+  day. Thank you both for your time. Thank. you.
+
+
+  Babuji Abraham:
+  Babuji Abraham: "We've had 45 lateral hires join our Indian operations. Out of
+  those, 18 did not receive their laptops until the second week" Abraham: If we
+  calculate an average billing rate for those 18 consultants over just five
+  working days, we are looking at thousands of dollars in lost revenue.
+
+
+  Varun Kumar:
+  Varun Kumar: Currently the process dictates that HR only triggers the IT
+  onboarding ticket after the candidates completes their final pre-joining
+  background check and upload their documents to the portal. If we can integrate
+  the HMS directly with our IT ticketing system, the system could automatically
+  generate an asset request the moment the candidate clicks accept the offer
+  letter.
+
+====================================================================
+  END OF REPORT — Team Vision AI
+====================================================================

@@ -1,0 +1,65 @@
+[
+  {
+    "stage": 1,
+    "name": "Audio Extraction",
+    "status": "success",
+    "detail": "Extracted from video — Duration: 5m 49s",
+    "timestamp": "18:39:22"
+  },
+  {
+    "stage": 2,
+    "name": "Transcription",
+    "status": "success",
+    "detail": "Whisper medium — 45 segments, ~890 words detected",
+    "timestamp": "18:50:16"
+  },
+  {
+    "stage": 3,
+    "name": "Diarization",
+    "status": "success",
+    "detail": "pyannote 3.1 — 3 speakers detected: SPEAKER_02, SPEAKER_01, SPEAKER_00",
+    "timestamp": "18:58:34"
+  },
+  {
+    "stage": "3b",
+    "name": "OCR Names",
+    "status": "success",
+    "detail": "EasyOCR — 117 frames scanned, 3/3 speakers named automatically",
+    "timestamp": "19:04:07"
+  },
+  {
+    "stage": 5,
+    "name": "Action Item Extraction",
+    "status": "success",
+    "detail": "Pattern-matching + heuristics — 8 action items found",
+    "timestamp": "19:06:09"
+  },
+  {
+    "stage": 6,
+    "name": "Keywords",
+    "status": "success",
+    "detail": "KeyBERT — Top keywords: india bottleneck, laptop time, laptops reaching, bottleneck laptops, revenue leak",
+    "timestamp": "19:06:17"
+  },
+  {
+    "stage": 7,
+    "name": "Summarization",
+    "status": "success",
+    "detail": "BART model loaded",
+    "timestamp": "19:06:21"
+  },
+  {
+    "stage": 7,
+    "name": "Summarization",
+    "status": "success",
+    "detail": "Meeting summary + 3 speaker summaries generated",
+    "timestamp": "19:08:02"
+  },
+  {
+    "stage": 8,
+    "name": "Report Generation",
+    "status": "success",
+    "detail": "Saved to: Sample_video_hackathon_vision_ai_output\\Sample_video_hackathon_analytics_report.txt",
+    "timestamp": "19:08:02"
+  }
+]

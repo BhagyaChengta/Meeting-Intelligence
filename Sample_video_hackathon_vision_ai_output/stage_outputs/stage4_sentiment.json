@@ -1,0 +1,272 @@
+[
+  {
+    "speaker": "Poornima Kumaran",
+    "text": "All right. It looks like everyone is here. Good morning, Purnima. Good morning, Varun.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Babuji Abraham",
+    "text": "Can you both hear me clearly? Good morning, Babaji. Yes, we can hear you loud and clear.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Poornima Kumaran",
+    "text": "Good morning, Babaji. Yes, I can hear you. Good morning. Great. Let us dive right in.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Poornima Kumaran",
+    "text": "I scheduled this quick hurdle today to address a recurring issue that is directly impacting our bottom line.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Poornima Kumaran",
+    "text": "As we raise continues to scale, we are seeing high volume of new joiners across India.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Poornima Kumaran",
+    "text": "However, we have a bottleneck. Laptops are not reaching our new hires on time for their day one.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Poornima Kumaran",
+    "text": "Because they can't access our secure environments, they sit idle, which translates to an immediate loss of available hours.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Poornima Kumaran",
+    "text": "Purnima, since revenue office flagged this, I will hand it over to you to quantify the issue.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Babuji Abraham",
+    "text": "Thanks, Babaji. Yes, this is becoming a significant revenue leak for us.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Babuji Abraham",
+    "text": "Just looking at the data from the last two months, we've had 45 lateral hires join our Indian operations.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Babuji Abraham",
+    "text": "Out of those, 18 did not receive their laptops until the second week.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Babuji Abraham",
+    "text": "So if we calculate an average billing rate for those 18 consultants over just five working days, we are looking at thousands of dollars in lost revenue.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Babuji Abraham",
+    "text": "Furthermore, it creates a terrible impression. First impression for the new joining clients that asking whether the new joinings are there.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Babuji Abraham",
+    "text": "You know, we are we are forced to give or make excuses about hardware logistics.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Babuji Abraham",
+    "text": "We really need a permanent fix for this. What exactly is causing this holdup on the IT hand?",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Varun Kumar",
+    "text": "I completely understand the frustration. Believe me, my team is just as frustrated.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Varun Kumar",
+    "text": "The issue is not our procurement or configuration speed. The issue is the lead time what we are being given.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Varun Kumar",
+    "text": "Right now, the idea only received the asset request ticket from HR about three to four days before the candidates joining it.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Varun Kumar",
+    "text": "Given the geographic spread of our new hires, many of whom are entire two and three cities, shipping alone takes four to five days.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Varun Kumar",
+    "text": "Before shipping, my team need at least 48 hours to image the machine, install the software and encrypt the device.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Varun Kumar",
+    "text": "We if we only get three day heads up, it is mathematically impossible to get the laptop there on time on the day of joining.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Poornima Kumaran",
+    "text": "OK, that's a very valid constraint, Varun. So the root cause is in vendor supply, its internal communication.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Poornima Kumaran",
+    "text": "Puneema, from your visibility into the talent pipeline, offer letters are usually accepted weeks in advance. Isn't that correct?",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Babuji Abraham",
+    "text": "Exactly, that's right. But candidates usually have a 30 to a 60 day notice period and HR gets to know only a month in advance that the person is joining and where they live.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Babuji Abraham",
+    "text": "Varun, why is IT only finding out three days prior?",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Varun Kumar",
+    "text": "Puneema, currently the process dictates that HR only triggers the IT onboarding ticket after the candidates completes their final pre-joining background check and upload their documents to the portal.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Varun Kumar",
+    "text": "Sometimes candidates delay doing the doing until the very last minute.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Babuji Abraham",
+    "text": "That's a flawed process. We shouldn't hold up, you know, physical hardware procurement for a final document upload.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Babuji Abraham",
+    "text": "If they have accepted the offer letter, we need to ship the machine. We can always remote lock the device if they end up backing out at the last minute.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Babuji Abraham",
+    "text": "The risk of the candidate posting us is much lower than the guaranteed loss of billing we are facing every week.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Varun Kumar",
+    "text": "I completely agree, Puneema. Remote locking is easy. What I need is an automated trigger.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Varun Kumar",
+    "text": "If we can integrate the HMS directly with our IT ticketing system, the system could automatically generate an asset request the moment the candidate clicks accept the offer letter.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Varun Kumar",
+    "text": "That gives my team 30-day runway. We can configure it and ship it early and just keep the account credentials locked until the day one.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Poornima Kumaran",
+    "text": "It's like that. It removes the manual dependency on a chart to remember to send an email and it gives IT the buffer they need for nationwide shipping. Is that integration something your team can handle, Varun?",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Varun Kumar",
+    "text": "Yes, Babaji. We can standard APIs for both the HRMS and IT service desk if HR gives us the green light to alter the workflow. My team can build and test the automation by next Friday.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Babuji Abraham",
+    "text": "That would be fantastic. I fully support this. It solves the billing leakage and improves the day one experience for the employee.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Poornima Kumaran",
+    "text": "Excellent. That's exactly the kind of alignment we needed today. Let me summarize the action items before we wrap up.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Poornima Kumaran",
+    "text": "First, Varun, I would like you to document the exact lead times your team needs for shipping to different regions within India, just so we have a formal SLA.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Poornima Kumaran",
+    "text": "Second, Puneema, could you send me the impact report on loss billing? We will use that data to build a quick business case.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Poornima Kumaran",
+    "text": "Third, I will set up a meeting for tomorrow with HR head. I will present the business case, explain the proposed HRMS to IT automation and get their sign off to bypass the document upload dependency.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Poornima Kumaran",
+    "text": "Are we all aligned on these steps?",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Babuji Abraham",
+    "text": "Yes, I am fully aligned with this.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Poornima Kumaran",
+    "text": "Sounds like a solid plan, Babaji. Thanks.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Poornima Kumaran",
+    "text": "Perfect. We solved a lot in five minutes. Thank you both for your time. Have a great rest of your day.",
+    "sentiment": "N/A",
+    "score": 0
+  },
+  {
+    "speaker": "Poornima Kumaran",
+    "text": "Thank you.",
+    "sentiment": "N/A",
+    "score": 0
+  }
+]

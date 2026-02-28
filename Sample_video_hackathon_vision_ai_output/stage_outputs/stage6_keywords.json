@@ -1,0 +1,72 @@
+{
+  "keywords": [
+    {
+      "keyword": "india bottleneck",
+      "score": 0.533
+    },
+    {
+      "keyword": "laptop time",
+      "score": 0.452
+    },
+    {
+      "keyword": "laptops reaching",
+      "score": 0.449
+    },
+    {
+      "keyword": "bottleneck laptops",
+      "score": 0.409
+    },
+    {
+      "keyword": "revenue leak",
+      "score": 0.409
+    },
+    {
+      "keyword": "indian operations",
+      "score": 0.39
+    },
+    {
+      "keyword": "billing leakage",
+      "score": 0.386
+    },
+    {
+      "keyword": "billing facing",
+      "score": 0.382
+    },
+    {
+      "keyword": "receive laptops",
+      "score": 0.361
+    },
+    {
+      "keyword": "joiners india",
+      "score": 0.358
+    },
+    {
+      "keyword": "join indian",
+      "score": 0.355
+    },
+    {
+      "keyword": "available hours",
+      "score": 0.342
+    },
+    {
+      "keyword": "laptops second",
+      "score": 0.341
+    },
+    {
+      "keyword": "revenue furthermore",
+      "score": 0.329
+    },
+    {
+      "keyword": "laptops",
+      "score": 0.32
+    }
+  ],
+  "topics": [
+    "india bottleneck",
+    "laptop time",
+    "laptops reaching",
+    "bottleneck laptops",
+    "revenue leak"
+  ],
+  "method": "KeyBERT"
+}
