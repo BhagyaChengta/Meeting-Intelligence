@@ -1,8 +1,62 @@
+# ── Virtual Environments ────────────────────────────────────────────
 venv/
-audio/
-__pycache__/
-*.pyc
+venv_clean/
+.venv/
+env/
+ENV/
+
+# ── Audio / Video Files ──────────────────────────────────────────────
+*.mp4
 *.mp3
 *.wav
-*.dll
-output/
+*.avi
+*.mkv
+*.mov
+*.webm
+*.m4a
+*.flac
+*.ogg
+
+# ── Pipeline Output Folders ──────────────────────────────────────────
+*_vision_ai_output/
+stage_outputs/
+
+# ── Report Output Files ──────────────────────────────────────────────
+*_analytics_report.txt
+
+# ── AI Model Cache (huge — re-downloaded automatically) ─────────────
+.cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ── HuggingFace Cache ────────────────────────────────────────────────
+.cache/huggingface/
+models/
+
+# ── Node / JS ────────────────────────────────────────────────────────
+node_modules/
+package-lock.json
+
+# ── OS Files ─────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE / Editor ─────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.user
+
+# ── Secrets / Tokens ─────────────────────────────────────────────────
+.env
+*.env
+secrets.txt
+
+# ── Temporary Files ───────────────────────────────────────────────────
+*.tmp
+*.log
+temp/
+tmp/
