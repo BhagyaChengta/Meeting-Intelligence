@@ -3,9 +3,9 @@
   Team Vision AI
 ====================================================================
   File      : Sample_video_hackathon.mp4
-  Generated : 2026-02-28 19:08:02
+  Generated : 2026-03-01 01:09:56
   Duration  : 05:43
-  Attendees : Poornima Kumaran, Babuji Abraham, Varun Kumar
+  Attendees : Varun, Babuji
 ====================================================================
 
 --------------------------------------------------------------------
@@ -32,7 +32,7 @@
   ACTION ITEMS
 --------------------------------------------------------------------
 
-  Poornima Kumaran:
+  Varun:
     • Purnima, since revenue office flagged this, I will hand it over to you to
       quantify the issue.
     • It's like that. It removes the manual dependency on a chart to remember to
@@ -46,14 +46,12 @@
       the business case, explain the proposed HRMS to IT automation and get
       their sign off to bypass the document upload dependency.
 
-  Varun Kumar:
+  Babuji:
     • Right now, the idea only received the asset request ticket from HR about
       three to four days before the candidates joining it.
     • Puneema, currently the process dictates that HR only triggers the IT
       onboarding ticket after the candidates completes their final pre-joining
       background check and upload their documents to the portal.
-
-  Babuji Abraham:
     • If they have accepted the offer letter, we need to ship the machine. We
       can always remote lock the device if they end up backing out at the last
       minute.
@@ -63,31 +61,103 @@
   SPEAKER-WISE SUMMARY
 --------------------------------------------------------------------
 
-  Poornima Kumaran:
+  Varun:
   Laptops are not reaching our new hires on time for their day one. Because they
-  can't access our secure environments, they sit idle, which translates to an
-  immediate loss of available hours. Poornima Kumaran said the following during
-  the meeting: It's like that. It removes the manual dependency on a chart to
-  remember to send an email. Babaji: Are we all aligned on these steps? Sounds
-  like a solid plan, Babaji. Get their sign off to bypass the document upload
-  dependency. Thanks. We solved a lot in five minutes. Have a great rest of your
-  day. Thank you both for your time. Thank. you.
+  can't access our secure environments, they sit idle. The root cause is in vendor
+  supply, its internal communication. It removes the manual dependency on a chart
+  to remember to send an email and it gives IT the buffer they need for nationwide
+  shipping. "We solved a lot in five minutes. Thank you both for your time. Have a
+  great rest of your day" "Are we all aligned on these steps? Sounds like a solid
+  plan, Babaji. Thanks" "We bypassed the document upload dependency. Their sign
+  off to bypass the sign off dependency"
 
 
-  Babuji Abraham:
-  Babuji Abraham: "We've had 45 lateral hires join our Indian operations. Out of
-  those, 18 did not receive their laptops until the second week" Abraham: If we
-  calculate an average billing rate for those 18 consultants over just five
-  working days, we are looking at thousands of dollars in lost revenue.
+  Babuji:
+  Puneema Babuji, CEO of Puneema, met with his HR team to discuss how to speed up
+  onboarding of new hires. He said the IT team only received the asset request
+  ticket from HR about three to four days before the candidates joining the
+  company. Babujee: "This is becoming a significant revenue leak for us"
+  Currently, HR only triggers the IT onboarding ticket after the candidates
+  completes their final pre-joining background check and upload their documents to
+  the portal. If we can integrate the HMS directly with our IT ticketing system,
+  the system could automatically generate an asset request the moment the
+  candidate clicks accept the offer letter.
 
 
-  Varun Kumar:
-  Varun Kumar: Currently the process dictates that HR only triggers the IT
-  onboarding ticket after the candidates completes their final pre-joining
-  background check and upload their documents to the portal. If we can integrate
-  the HMS directly with our IT ticketing system, the system could automatically
-  generate an asset request the moment the candidate clicks accept the offer
-  letter.
+====================================================================
+  MEETING REPORT — HINDI / हिन्दी
+====================================================================
+
+--------------------------------------------------------------------
+  MEETING SUMMARY — Hindi / हिन्दी
+--------------------------------------------------------------------
+
+  लैपटॉप अपने दिन के लिए समय पर हमारे नए वेतन तक नहीं पहुँच रहे हैं । क्योंकि वे
+  हमारे सुरक्षित वातावरण, वे निष्क्रिय बैठते हैं, जो उपलब्ध घंटों के एक तत्काल
+  नुकसान का अनुवाद करता है. पिछले दो महीनों से डेटा को देखो, हम 45 बाद के वेतन
+  हमारे भारतीय संचालन में शामिल हो गए हैं. उन में से १८ व्यक्‍तियों में से दूसरे
+  सप्ताह तक उनके लैपटॉप नहीं मिले । वर्तमान में, HR केवल उम्मीदवारों के पूरे अंतिम
+  पूर्व की जाँच के बाद ही यह टिकट ट्रिगर करता है अपने अंतिम पूर्व भविष्य की जाँच
+  करता है और उनके दस्तावेज़ों को पोर्टल में अपलोड करता है. कभी - कभी उम्मीदवार देर
+  करते हैं । यदि हम अपने इस टिकट प्रणाली के साथ सीधे ही HMS को एकीकृत कर सकते हैं,
+  तो तंत्र इस अवसर पर एक परिसंपत्ति की बिनती कर सकता है जो प्रस्तुत पत्र स्वीकार
+  करता है. पुनेमा, क्या आप मुझे नुकसान होने पर प्रभाव रिपोर्ट भेज सकते हैं? हम उस
+  डेटा का उपयोग एक त्वरित व्यापार मामले बनाने के लिए करेंगे। तीसरा, मैं कल के लिए
+  एक बैठक सेट करेंगे HR के सिर के साथ. बस तो हम एक औपचारिक स्वा है. मैं व्यापार के
+  मामले में प्रस्तुत होगा, प्रस्ताव HMIS को समझाने के लिए और उनका साइन बंद करने के
+  लिए.
+
+
+--------------------------------------------------------------------
+  ACTION ITEMS — Hindi / हिन्दी
+--------------------------------------------------------------------
+
+  Varun:
+    • राजस्वा, क्योंकि राजस्वा ने इस काम पर पाबंदी लगा दी है, मैं इस मसले को
+      सुलझाने के लिए आप पर हाथ डालूंगा.
+    • यह उस तरह है. यह चार्ट से पता लगाने के लिए एक चार्ट को हटाता है और यह इसे
+      इस बफर को देता है जिसे पूरे विश्‍व पर कब्ज़ा करने की ज़रूरत है । कि एकीकरण
+      कुछ अपने टीम संभाल सकते हैं, वार?
+    • बहुत बढ़िया। कि वास्तव में हम आज जरूरत की संरेखण की तरह है. इससे पहले कि
+      हम ऊपर लपेट करने से पहले, मुझे कार्यवाही वस्तुओं का सार देना है.
+    • दूसरा, पुनेमा, क्या आप मुझे नुकसान पर रिपोर्ट भेज सकते हैं? हम उस डेटा का
+      उपयोग एक त्वरित व्यापार मामले बनाने के लिए करेंगे।
+    • तीसरा, मैं कल के लिए एक बैठक सेट करेंगे HR के सिर के साथ. मैं व्यापार के
+      मामले में प्रस्तुत करेंगे, प्रस्ताव HMMIS को समझाने और दस्तावेज़ अपलोड को
+      रोकने के लिए उनके संकेत को दूर करने के लिए।
+
+  Babuji:
+    • अभी, यह विचार केवल HR से लगभग तीन दिन पहले ही एचआर से टिकट प्राप्त किया
+      गया था ।
+    • पूनमा, वर्तमान प्रक्रिया यह तय करती है कि HR केवल उम्मीदवारों के अंतिम
+      पूर्व की जांच के बाद ही टिकट पर यह ट्रिगर करता है और उनके दस्तावेज़ों को
+      पोर्टल में अपलोड करता है.
+    • यदि वे इस प्रस्ताव पत्र को स्वीकार कर चुके हैं, तो हमें मशीन की ज़रूरत है.
+      हम हमेशा रिमोट लॉक कर सकते हैं यदि वे अंतिम मिनट में बाहर समर्थन अंत में.
+
+
+--------------------------------------------------------------------
+  SPEAKER-WISE SUMMARY — Hindi / हिन्दी
+--------------------------------------------------------------------
+
+  Varun:
+  लैपटॉप अपने दिन के लिए समय पर हमारे नए वेतन तक नहीं पहुँच रहे हैं । क्योंकि वे
+  हमारे सुरक्षित वातावरण तक नहीं पहुँच सकते, वे निष्क्रिय बैठते हैं. मूल कारण
+  विक्रेताओं, इसकी आंतरिक संचार में है । यह चार्ट से पता लगाने के लिए एक चार्ट को
+  हटाता है और यह इसे इस बफर को देता है जिसे पूरे विश्‍व पर कब्ज़ा करने की ज़रूरत
+  है । "हम पांच मिनट में एक बहुत हल किया. अपने समय के लिए दोनों का धन्यवाद. "क्या
+  हम सभी इन चरणों पर संघीय हैं? एक ठोस योजना की तरह लगता है, ब्राबाजी. "हम
+  दस्तावेज़ अपलोड बंद कर दिया" धन्यवाद. उनका साइन पार करने के लिए बंद कर दिया "
+
+
+  Babuji:
+  पूनमा बाबजी, पुगनमा का XIV, अपने HR टीम के साथ मिलकर चर्चा करने के लिए कि नए
+  वेतन पर गति कैसे कम करें. उन्होंने कहा कि इस टीम को केवल HR से लगभग तीन दिन पहले
+  ही एचआर से टिकट प्राप्त हुआ । Babee: "यह हमारे लिए एक महत्वपूर्ण राजस्वबित हो
+  रहा है" वर्तमान में, HR केवल उम्मीदवारों के अंतिम पूर्व की जाँच के बाद टिकट पर
+  यह ट्रिगर करता है और उनके दस्तावेज़ों को पोर्टल के लिए अपलोड करता है। यदि हम
+  अपने इस टिकट प्रणाली के साथ सीधे ही HMS को एकीकृत कर सकते हैं, तो तंत्र इस अवसर
+  पर एक परिसंपत्ति की बिनती कर सकता है जो प्रस्तुत पत्र स्वीकार करता है.
 
 ====================================================================
   END OF REPORT — Team Vision AI
